@@ -8,6 +8,8 @@ Projeto Angular Quiz proposto como projeto de portfólio pelo professor Felipe A
 > - Trabalhei a responsividade do projeto;
 > - Alterei a logo e cores do projeto
 
+Link GitHubPages: https://marcoswinther.github.io/angular-project-quiz-scooby-doo/
+
 # AngularProjectQuiz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
