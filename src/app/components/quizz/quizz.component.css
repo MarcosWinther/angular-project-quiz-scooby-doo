@@ -1,0 +1,126 @@
+.quiz__container {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.quiz_logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.quiz_logo > h3 {
+  margin-top: 20px;
+}
+
+.quiz_logo > img {
+  width: 40%;
+}
+
+.quiz_questions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #fd6026;
+  border-radius: 8px;
+  background-color: #f4784c;
+  width: 100%;
+  height: 310px;
+  font-family: 'Segoe UI', sans-serif;
+  margin-bottom: 20px;
+}
+
+.quiz_questions > img {
+  display: flex;
+  justify-content: center;
+  max-width: 377px;
+  width: 35%;
+  margin-bottom: 10px;
+  border: 1px solid #fd6026;
+  border-radius: 5px;
+}
+
+.quiz_questions > h3 {
+  display: flex;
+  font-size: 20px;
+}
+
+.quiz_options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.btn-option {
+  background-color: transparent;
+  border-radius: 8px;
+  border: 1px solid #18ab29;
+  width: 50%;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+
+.btn-option:hover {
+  background-color: #5cbf2a;
+}
+
+.btn-option:active {
+  position: relative;
+  top: 1px;
+}
+
+.quiz_results {
+  width: 100%;
+  height: 350px;
+  background-color: #1F0539;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz_results > p {
+  margin-bottom: 10px;
+}
+
+.quiz_results > img {
+  display: flex;
+  justify-content: center;
+  max-height: 204px;
+  border: 1px solid #2c0553;
+  border-radius: 8px;
+}
+
+@media (min-width:320px) and (max-width: 768px) {
+  .quiz_logo > img {
+    width: 80%;
+  }
+
+  .quiz_questions {
+    height: 250px;
+  }
+
+  .quiz_questions > img {
+    width: 50%;
+    height: auto;
+  }
+
+  .quiz_results > img {
+    width: 80%;
+    height: auto;
+  }
+}

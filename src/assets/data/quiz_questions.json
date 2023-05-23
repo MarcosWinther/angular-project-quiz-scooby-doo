@@ -1,0 +1,85 @@
+{
+  "title":"QUIZ: Qual personagem do Scooby-Doo você seria?",
+  "questions":[
+
+    {
+      "id":1,
+      "question": "Qual seria sua cor favorita?",
+      "photoCover": "assets/imgs/scooby-doo-turma.png",
+      "options":[
+        {"id": 1, "name":"🟣", "alias":"A"},
+        {"id": 2, "name":"🟠", "alias":"B"},
+        {"id": 3, "name":"⚪", "alias":"C"},
+        {"id": 4, "name":"🟢", "alias":"D"},
+        {"id": 5, "name":"🟤", "alias":"E"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Dentro da equipe do Mistério S.A. o que você seria?",
+      "photoCover": "assets/imgs/scooby-doo-01.jpg",
+      "options":[
+        {"id": 1, "name":"Membro de uma família rica e amante de moda.", "alias":"A"},
+        {"id": 2, "name":"Nerd.", "alias":"B"},
+        {"id": 3, "name":"Líder.", "alias":"C"},
+        {"id": 4, "name":"Comilão da turma e medroso(a).", "alias":"D"},
+        {"id": 5, "name":"Comilão, fiel amigo(a) e medroso(a)", "alias":"E"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Com qual perfil você encaixaria?",
+      "photoCover": "assets/imgs/scooby-doo-02.jpg",
+      "options":[
+        {"id": 1, "name":"Patricinha e amante da modas.", "alias":"A"},
+        {"id": 2, "name":"O(a) solucionador(a) de enigmas e mistérios.", "alias":"B"},
+        {"id": 3, "name":"O(a) montador(a) de armadilhas e líder da turma.", "alias":"C"},
+        {"id": 4, "name":"O(a) preguiçoso(a), não gosta de mistérios, ama comida e tem medo de fantasmas.", "alias":"D"},
+        {"id": 5, "name":"Amante de biscoito Scooby e medroso(a), mas é fiel ao seu amigo(a).", "alias":"E"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual seria o seu primeiro bordão preferido?",
+      "photoCover": "assets/imgs/scooby-doo-03.jpg",
+      "options":[
+        {"id": 1, "name":"'Puxa vida, esse lugar é horripilante a noite.'", "alias":"A"},
+        {"id": 2, "name":"'Parem já com isso seus covardes!'", "alias":"B"},
+        {"id": 3, "name":"'Eu tenho um plano.'", "alias":"C"},
+        {"id": 4, "name":"'Sebo nas canelas, Scooby!'", "alias":"D"},
+        {"id": 5, "name":"'O que?? Fantasmaaa??'", "alias":"E"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual seria o seu segundo bordão preferido?",
+      "photoCover": "assets/imgs/scooby-doo-04.jpg",
+      "options":[
+        {"id": 1, "name":"'Puxa vida, esse lugar me dá arrepios.'", "alias":"A"},
+        {"id": 2, "name":"'Eu acho que acabei de resolver esse mistério!'", "alias":"B"},
+        {"id": 3, "name":"'É Turma... Parece que temos um novo mistério nas mãos.'", "alias":"C"},
+        {"id": 4, "name":"'Que tal um lanchinho, Scooby?'", "alias":"D"},
+        {"id": 5, "name":"'Socorro Salsichaaa!'", "alias":"E"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual seria o seu último bordão preferido?",
+      "photoCover": "assets/imgs/scooby-doo-05.jpg",
+      "options":[
+        {"id": 1, "name":"'Você faria isso por um biscoito Scooby?'", "alias":"A"},
+        {"id": 2, "name":"'Meus óculos... não consigo ver sem meus óculos!'", "alias":"B"},
+        {"id": 3, "name":"'Bem, vamos nos separar e procurar pistas.'", "alias":"C"},
+        {"id": 4, "name":"'Scooby-Doo, onde tá você meu filho?'", "alias":"D"},
+        {"id": 5, "name":"'Scooby-Dooby-Doo-oo-oo!!!'", "alias":"E"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria a Daphne Blake!",
+    "B": "Você muito provavelmente seria a Velma Dinkley!",
+    "C": "Você muito provavelmente seria o Fred Jones!",
+    "D": "Você muito provavelmente seria o Salsicha Rogers!",
+    "E": "Você muito provavelmente seria o Scooby-Doo!"
+  }
+}
