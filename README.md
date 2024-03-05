@@ -18,7 +18,7 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 ## 🖥 Preview:
 
-- Venha ver como ficou o projeto e teste seus conhecimentos sobre a animação acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/angular-project-quiz-scooby-doo/)
+- Venha ver como ficou o projeto e teste seus conhecimentos sobre a animação acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/angular-project-quiz-scooby-doo/).
 
 ## ⚙ Execução do Projeto:
 
@@ -30,7 +30,7 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 - O tema do quiz que foi sobre a animação Scooby-Doo;
 - Coloquei imagens, sendo uma imagem em cada questão;
 - Trabalhei a responsividade do projeto;
-- Alterei a logo e cores do projeto
+- Alterei a logo e cores do projeto.
 
 ## 📌 Créditos:
 
